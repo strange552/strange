@@ -7,10 +7,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=strange552&show_icons=true&theme=transparent" />  
 
-
-
 <img align="left" width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strange552" />  
-
 <h1 align="center">Hi 👋, I'm MrRoyalto</h1>
 <h3 align="center">A Student From India 🇮🇳🇮🇳</h3>
 
