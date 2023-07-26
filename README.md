@@ -7,11 +7,11 @@
 
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=XronTrix10&show_icons=true&theme=transparent" />  
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=strange552&show_icons=true&theme=transparent" />  
 
 
 
-<img align="left" width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XronTrix10" />
+<img align="left" width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strange552" />
 
 
 
